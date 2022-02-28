@@ -1,2 +1,2 @@
 # haiku-test
-First experimental programs
+First experimental program
