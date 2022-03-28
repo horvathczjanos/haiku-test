@@ -8,6 +8,7 @@ class MainWindow : public BWindow
 public:
 						MainWindow(void);
 			void		MessageReceived(BMessage *msg);
+			void 		Tick();
 			bool		QuitRequested(void);
 			
 private:
